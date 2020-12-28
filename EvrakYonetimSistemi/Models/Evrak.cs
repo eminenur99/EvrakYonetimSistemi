@@ -23,5 +23,6 @@ namespace EvrakYonetimSistemi.Models
 
         [NotMapped]
         public IFormFile Dosya { set; get; }
+
     }
 }
