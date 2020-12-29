@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using EvrakYonetimSistemi.Data
+using EvrakYonetimSistemi.Data;
 
 namespace EvrakYonetimSistemi.Controllers
 {

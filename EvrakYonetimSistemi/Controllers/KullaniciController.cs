@@ -7,7 +7,7 @@ using EvrakYonetimSistemi.Data;
 using EvrakYonetimSistemi.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using static EvrakYonetimSistemi.Models.Users;
+using EvrakYonetimSistemi.Models;
 
 namespace EvrakYonetimSistemi.Controllers
 {

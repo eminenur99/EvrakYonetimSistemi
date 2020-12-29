@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using EvrakYonetimSistemi.Data;
 using EvrakYonetimSistemi.Models;
 using Microsoft.AspNetCore.Identity;
-using static EvrakYonetimSistemi.Models.Users;
+using  EvrakYonetimSistemi.Models;
 
 namespace EvrakYonetimSistemi.Controllers
 {

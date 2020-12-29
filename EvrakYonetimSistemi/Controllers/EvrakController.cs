@@ -11,7 +11,6 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using static EvrakYonetimSistemi.Models.Users;
 
 namespace EvrakYonetimSistemi.Controllers
 {

@@ -6,12 +6,11 @@ using Microsoft.AspNetCore.Identity;
 
 namespace EvrakYonetimSistemi.Models
 {
-    public class Users
+    
+    public class User : IdentityUser<string>
     {
-        public class User : IdentityUser<string>
-        {
-            public string FirstName { get; set; }
-            public string LastName { get; set; }
-        }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
     }
+    
 }

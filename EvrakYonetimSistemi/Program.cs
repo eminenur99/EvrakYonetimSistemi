@@ -6,6 +6,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using EvrakYonetimSistemi.Data.Initialize;
+using EvrakYonetimSistemi.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace EvrakYonetimSistemi
 {
@@ -13,7 +17,10 @@ namespace EvrakYonetimSistemi
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            var host = CreateHostBuilder(args).Build();
+            var scope = host.Services.CreateScope();
+            Seed.Initilize(scope.ServiceProvider.GetRequiredService<UserManager<User>>());
+            host.Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
