@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Emine Nur Gülsu\\Desktop\\odev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj": {}
+    "C:\\Users\\Emine Nur Gülsu\\Desktop\\sonOdev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Emine Nur Gülsu\\Desktop\\odev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj": {
+    "C:\\Users\\Emine Nur Gülsu\\Desktop\\sonOdev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Emine Nur Gülsu\\Desktop\\odev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\Emine Nur Gülsu\\Desktop\\sonOdev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj",
         "projectName": "EvrakYonetimSistemi",
-        "projectPath": "C:\\Users\\Emine Nur Gülsu\\Desktop\\odev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj",
+        "projectPath": "C:\\Users\\Emine Nur Gülsu\\Desktop\\sonOdev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj",
         "packagesPath": "C:\\Users\\Emine Nur Gülsu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Emine Nur Gülsu\\Desktop\\odev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\obj\\",
+        "outputPath": "C:\\Users\\Emine Nur Gülsu\\Desktop\\sonOdev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -9,6 +9,8 @@ using EvrakYonetimSistemi.Models;
 
 namespace EvrakYonetimSistemi.Data
 {
+
+
     public class ApplicationDbContext : IdentityDbContext<
       User,
       IdentityRole<string>,

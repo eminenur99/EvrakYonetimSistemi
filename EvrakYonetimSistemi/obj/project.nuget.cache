@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dxb/7Q6c3N02ulEBKeb1RNIRCCBXIf3ZCDiSiAdTrI8VFOkMtZk50qYIU8R0mVOSXts95EEEs1S9V0ZSNMFnkA==",
+  "dgSpecHash": "yZhrUocxWXNYjK6QAHKl9k3FPebqJRN4MPr3CCQkTwYPyPaYYrWkB8dBaWxyLgguW/+y4LVVjZlT0ClT0XwM7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emine Nur Gülsu\\Desktop\\odev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj",
+  "projectFilePath": "C:\\Users\\Emine Nur Gülsu\\Desktop\\sonOdev\\EvrakYonetimSistemi\\EvrakYonetimSistemi\\EvrakYonetimSistemi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emine Nur Gülsu\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.10\\microsoft.aspnetcore.cryptography.internal.3.1.10.nupkg.sha512",
     "C:\\Users\\Emine Nur Gülsu\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.10\\microsoft.aspnetcore.cryptography.keyderivation.3.1.10.nupkg.sha512",
