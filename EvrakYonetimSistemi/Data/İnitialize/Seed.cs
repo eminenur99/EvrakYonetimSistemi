@@ -17,13 +17,13 @@ namespace EvrakYonetimSistemi.Data.Initialize
                 await _userManager.CreateAsync(new User() 
                     { Id = Guid.NewGuid().ToString(),
                         Email = "eminenurglsu@gmail.com",
-                        UserName = "eminenur",
+                        UserName = "191210350@sakarya.edu.tr",
                         EmailConfirmed = true,
                         PhoneNumberConfirmed = true,
-                        FirstName = "Nur",
+                        FirstName = "Emine Nur",
                         LastName = "Gülsu"
 
-                    }, "Aa12345!");
+                    }, "123");
             }
         }
     }
