@@ -14,6 +14,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace EvrakYonetimSistemi.Controllers
 {
+    [Authorize]
     public class EvrakController : Controller
     {
         private readonly ApplicationDbContext c;

@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace EvrakYonetimSistemi.Controllers
 {
+    [Authorize]
     public class EvrakTipiController : Controller
     {
         private readonly ApplicationDbContext c;
