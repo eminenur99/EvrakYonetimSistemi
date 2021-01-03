@@ -7,9 +7,11 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using EvrakYonetimSistemi.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EvrakYonetimSistemi.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
